@@ -10,10 +10,10 @@ const About = () => {
   }, [])
 
   const skills = {
-    languages: ["Python", "Go", "Javascript", "C++", "Java", "HTML", "CSS"],
+    languages: ["Python", "Go", "Javascript", "C++", "Java", "Tailwindcss"],
     frameworks: ["Django", "Flask", "Gin", "React.js", "Tailwind CSS", "Bootstrap"],
-    tools: ["Git", "VS Code", "Jupyter Notebook", "Figma", "Docker", "Apache Airfow", "AWS"],
-    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "VS Code", "Jupyter Notebook", "Figma", "Docker", "Apache Airfow", "DBT"],
+    databases: ["MySQL", "PostgreSQL", "BigQuery", "Snowflake"],
   }
 
   return (
