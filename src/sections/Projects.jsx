@@ -28,27 +28,6 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "Sentiment Analysis",
-      description: "This Project Contains About How I done The Twitter Sentiment Analysis from Data Collecting to Machine Learning Model Implementation. #Project title# : *Analisis Sentiment Terhadap Mental Health Anak Remaja dengan Dataset Twitter berbasis Hybrid Model Machine Learning*",
-      images: [
-        p1, p2, p3, p4,
-      ],
-      techStack: ["python", "Google Colab", "NLTK", "Twitter Api"],
-      githubUrl: "https://github.com/doctordoom101/Twitter-Sentiment-Analysis---Programming-Language-Lecturer-Final-Project",
-    },
-    {
-      id: 2,
-      title: "Sales & Inventory Management",
-      description:
-        "A collaborative Sales & Inventory Management - POS system, oop project",
-      images: [
-        ppp1, ppp2, ppp3,
-      ],
-      techStack: ["Java", "JavaFX", "MySQL"],
-      githubUrl: "https://github.com/Zain0205/el-market-inventory-and-sales",
-    },
-    {
-      id: 3,
       title: "Laundry Management Web App",
       description:
         "A collaborative Laundry Management system, Interactive Dasboard and make you able to generate sales reports",
@@ -59,7 +38,7 @@ const Projects = () => {
       githubUrl: "https://github.com/doctordoom101/web-prog-uts",
     },
     {
-      id: 4,
+      id: 2,
       title: "Web Scraping: Books to Scrape",
       description: "end-to-end web scraping and data analysis pipeline using Python and Jupyter Notebook.I scraped data from a free site called Books to Scrape(books.toscrape.com), which provides dummy data for practicing scraping.",
       images: [
