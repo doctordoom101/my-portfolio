@@ -37,7 +37,7 @@ const About = () => {
                     Right now, I'm learning how to work with data pipelines, databases, cloud tools, and anything that helps move, clean, or store data efficiently.
                 </p>
                 <p>
-                    I enjoy using Python, SQL, Airflow, and playing around with tools like Docker and Airflow. Still learning every day and always open to new stuff!
+                    I enjoy using Python, SQL, DBT, and playing around with tools like Docker and Airflow. Still learning every day and always open to new stuff!
                 </p>
               </div>
 
